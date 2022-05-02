@@ -1,0 +1,129 @@
+{
+  "region": "Bergen, Norway",
+  "currentConditions": {
+    "dayhour": "Monday 11:00 PM",
+    "temp": {
+      "c": 5,
+      "f": 41
+    },
+    "precip": "2%",
+    "humidity": "78%",
+    "wind": {
+      "km": 14,
+      "mile": 9
+    },
+    "iconURL": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+    "comment": "Partly cloudy"
+  },
+  "next_days": [
+    {
+      "day": "Monday",
+      "comment": "Partly cloudy",
+      "max_temp": {
+        "c": 8,
+        "f": 47
+      },
+      "min_temp": {
+        "c": 2,
+        "f": 36
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+    },
+    {
+      "day": "Tuesday",
+      "comment": "Partly cloudy",
+      "max_temp": {
+        "c": 12,
+        "f": 53
+      },
+      "min_temp": {
+        "c": 3,
+        "f": 37
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+    },
+    {
+      "day": "Wednesday",
+      "comment": "Scattered showers",
+      "max_temp": {
+        "c": 9,
+        "f": 48
+      },
+      "min_temp": {
+        "c": 7,
+        "f": 44
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+    },
+    {
+      "day": "Thursday",
+      "comment": "Showers",
+      "max_temp": {
+        "c": 11,
+        "f": 52
+      },
+      "min_temp": {
+        "c": 8,
+        "f": 46
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_light.png"
+    },
+    {
+      "day": "Friday",
+      "comment": "Rain",
+      "max_temp": {
+        "c": 11,
+        "f": 51
+      },
+      "min_temp": {
+        "c": 4,
+        "f": 39
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain.png"
+    },
+    {
+      "day": "Saturday",
+      "comment": "Scattered showers",
+      "max_temp": {
+        "c": 9,
+        "f": 49
+      },
+      "min_temp": {
+        "c": 4,
+        "f": 39
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+    },
+    {
+      "day": "Sunday",
+      "comment": "Rain",
+      "max_temp": {
+        "c": 10,
+        "f": 50
+      },
+      "min_temp": {
+        "c": 6,
+        "f": 43
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain.png"
+    },
+    {
+      "day": "Monday",
+      "comment": "Showers",
+      "max_temp": {
+        "c": 13,
+        "f": 55
+      },
+      "min_temp": {
+        "c": 6,
+        "f": 42
+      },
+      "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_light.png"
+    }
+  ],
+  "contact_author": {
+    "email": "communication.with.users@gmail.com",
+    "auth_note": "Mail me for feature requests, improvement, bug, help, ect... Please tell me if you want me to provide any other free easy-to-use API services"
+  },
+  "data_source": "https://www.google.com/search?lr=lang_en&q=weather+in+bergen"
+}
