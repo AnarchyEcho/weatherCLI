@@ -11,4 +11,4 @@ case $1 in
     Help
     exit;;
 esac
-weather $1 $2
+weather $1
