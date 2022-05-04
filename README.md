@@ -1,7 +1,7 @@
 # weatherCLI
 ### Project to fetch weather data for user specified city with a Bash script
 #### How to use
-1: Download weather.sh and place it in any folder.
+1: Download latest release version and place it in any folder.
 
 2: Make it globally accessible by putting a function in your .bashrc file that calls the script with 1 input.
 
